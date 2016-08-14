@@ -7,5 +7,5 @@ My changes in this branch:
 o say hello
 o introduce myself
 o say bye bye
-,lla ydwoH
+lla ydwoH
 -------------------------
